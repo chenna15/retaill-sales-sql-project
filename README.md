@@ -8,11 +8,10 @@ A complete SQL project analyzing retail sales to gain insights on customer behav
 - Created views for simplified reporting and BI use
 
 ## 📁 Files Included
-- Retail_Sales_Project.sql: Complete SQL script
-- Retail_Sales_SQL_Project_Outcomes.pdf: Summary of business outcomes
-- Retail_Sales_SQL_Project_Benefits.pdf: Benefits of the project
+- Retail_Sales_Project_SQL_Scripts.pdf: Complete SQL script
+- Retail_Sales_SQL_Project_Benefits.pdf: Benefits of the project business outcomes
 - Retail_Sales_SQL_Views.pdf: SQL views for reporting
-- Retail_Sales_Project_Insights.xlsx: Excel data from query results
+- Retail_Sales_Project_Insights.xml: Excel data from query results
 
 ## 📊 Skills Demonstrated
 - SQL Joins, Group By, Aggregates
